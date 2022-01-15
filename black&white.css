@@ -1,0 +1,20 @@
+/**
+  * @name Glorious
+  * @author Carlos
+  * @version 2.1
+  * @description dark and white theme for Discord
+  * @authorLink https://devevil.xyz
+  * @source https://github.com/Its00n/Black-and-white
+  * @invite jsQ9UP7kCA
+*/
+
+@import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Dark+/Dark+.theme.css');
+
+:root {
+  --darkplus-bg: #000000;
+  --darkplus-bg2: #161616;
+  --darkplus-sec: #ffffff;
+  --darkplus-links: #ffffff;
+  --darkplus-home-icon: url(https://cdn.discordapp.com/attachments/908043726117556294/931880921764884530/discord-avatar-512-YV0PV.png)
+}
+
