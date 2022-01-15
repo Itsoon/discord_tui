@@ -1,0 +1,19 @@
+/**
+  * @name Black and white
+  * @author Carlos
+  * @version 2.1
+  * @description dark and white theme for Discord
+  * @source https://github.com/Its00n/https-itsoon.github.io
+  * @invite xtHjfZwDq8
+*/
+
+@import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Dark+/Dark+.theme.css');
+
+:root {
+  --darkplus-bg: #000000;
+  --darkplus-bg2: #161616;
+  --darkplus-sec: #ffffff;
+  --darkplus-links: #ffffff;
+  --darkplus-home-icon: url(https://cdn.discordapp.com/attachments/908043726117556294/931880921764884530/discord-avatar-512-YV0PV.png)
+}
+
