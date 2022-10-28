@@ -1,6 +1,6 @@
 :root {
     --app-bg: url(https://cdn.discordapp.com/attachments/908043726117556294/1035120120856580097/transparent.png?size=4096);
-    --app-blur: 6px;
+    --app-blur: 18px;
     --app-margin: 24px;
     --app-radius: 10px;
     --sidebar-color: rgba(0,0,0,0.4);
